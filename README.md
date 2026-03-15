@@ -1,5 +1,5 @@
 <h1 align="left">Nice too meet you, I'm Sébastien</h1>
-<p align="left">Actuellement en formation <a color:blue>Data Science sur OpenClassrooms</a>, je poursuis mon apprentissage tout en travaillant. Passionné par l’analyse de données et l’intelligence artificielle, je développe progressivement mes compétences en Python et dans les principaux outils de data science.</p>
+<p align="left">Actuellement en formation <a style="color: blue;">Data Science sur OpenClassrooms</a>, je poursuis mon apprentissage tout en travaillant. Passionné par l’analyse de données et l’intelligence artificielle, je développe progressivement mes compétences en Python et dans les principaux outils de data science.</p>
 <p>Je m’intéresse également au développement de jeux vidéo, dans l’objectif de combiner Data Science et IA pour créer des expériences interactives et immersives. </p>
 
 <h3 align="left">Languages and Tools:</h3>
